@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0a3d62,70:1a1a2e,100:58A6FF&height=220&section=header&text=Ankit%20Prasad%20Dahal&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=⚡%20Electronics%20Engineer%20%7C%20AI%20%7C%20IoT%20%7C%20Full-Stack%20Dev&descAlignY=62&descSize=17&animation=fadeIn&stroke=58A6FF&strokeWidth=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0a3d62,70:1a1a2e,100:58A6FF&height=220&section=header&text=Ankit%20Prasad%20Dahal&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=⚡%20Wireless%20Engineer%20%7C%20AI%20%7C%20IoT%20%7C%20Full-Stack%20Dev&descAlignY=62&descSize=17&animation=fadeIn&stroke=58A6FF&strokeWidth=2"/>
 </div>
 
 <div align="center">
@@ -20,18 +20,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" />
 
-### 👨‍💻 about me
 
-```yaml
-Name     : Ankit Prasad Dahal
-DOB      : 28 April 2002 — Lahan, Nepal 🇳🇵
-Degree   : B.E. Electronics, Communication & Info Eng.
-College  : Sagarmatha Engineering College (2020–2025)
-Job      : Technical Support Associate @ ZTE → Ncell 📡
-Location : Kathmandu, Nepal
-Languages: Nepali · English · Hindi · German
-Open To  : Full-time · Freelance · Collaborations ✅
-```
 
 - 🤖 Built **YOLO real-time classroom monitor** & **Arduino 3D scanner**
 - 📡 Optimizing **2G/3G/4G** networks — KPI & capacity upgrades at Ncell
@@ -194,12 +183,3 @@ while (true) {
 }
 ```
 
-⭐ **Star my repos if you like what you see — it keeps me going!**
-
-*Crafted with ❤️ from Kathmandu, Nepal 🇳🇵*
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1a1a2e,100:0D1117&height=130&section=footer&animation=fadeIn"/>
-</div>
