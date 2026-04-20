@@ -149,6 +149,8 @@ Responsive portfolio — HTML, CSS, Node.js backend + MongoDB, hosted on GitHub 
 
 ---
 
+---
+
 ### 🐍 snake eating my contributions
 
 <div align="center">
@@ -179,6 +181,7 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
 ```
 
 ---
