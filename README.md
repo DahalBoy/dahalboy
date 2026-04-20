@@ -1,107 +1,202 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0a3d62,70:1a1a2e,100:58A6FF&height=220&section=header&text=Ankit%20Prasad%20Dahal&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=⚡%20Electronics%20Engineer%20%7C%20AI%20%7C%20IoT%20%7C%20Full-Stack%20Dev&descAlignY=62&descSize=17&animation=fadeIn&stroke=58A6FF&strokeWidth=2"/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:58A6FF&height=200&section=header&text=Ankit%20Prasad%20Dahal&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Electronics%20%26%20Software%20Engineer%20%7C%20AI%20%7C%20IoT%20%7C%20Full-Stack&descAlignY=58&descSize=16&animation=fadeIn"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=🚀+Building+things+that+actually+work;🤖+YOLO+%7C+Deep+Learning+%7C+Computer+Vision;⚡+Node.js+%7C+MongoDB+%7C+Express;🔩+Arduino+%7C+IoT+%7C+Embedded+Systems;🌍+Based+in+Kathmandu%2C+Nepal+🇳🇵)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&height=50&lines=🚀+Hey!+I'm+Ankit+from+Nepal+🇳🇵;🤖+YOLO+%7C+Deep+Learning+%7C+Computer+Vision;⚡+Node.js+%7C+MongoDB+%7C+Express.js;🔩+Arduino+%7C+IoT+%7C+Embedded+Systems;📡+Network+Optimization+%7C+KPI+Analysis;💡+Always+Learning+%7C+Always+Building" />
+</div>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-58A6FF?style=for-the-badge&logoColor=white)](https://dahalboy.github.io/My_Website/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-dahal-18aa271a9)
-[![Gmail](https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitdahal864@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9779843345619)
-[![Views](https://komarev.com/ghpvc/?username=dahalboy&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/dahalboy)
-
+<div align="center">
+  <a href="https://dahalboy.github.io/My_Website/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit-58A6FF?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/ankit-dahal-18aa271a9"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ankitdahal864@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/9779843345619"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=dahalboy&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
 </div>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" />
 
-## 👨‍💻 about me
+### 👨‍💻 about me
 
-```python
-class AnkitDahal:
-    role     = "Electronics & Communication Engineer"
-    job      = "Technical Support @ ZTE → Ncell 📡"
-    location = "Kathmandu, Nepal 🇳🇵"
-    skills   = ["AI/ML", "IoT", "Node.js", "MongoDB", "Flutter"]
-    langs    = ["Nepali", "English", "Hindi", "German"]
-    open_to  = "Full-time · Freelance · Collabs ✅"
+```yaml
+Name     : Ankit Prasad Dahal
+DOB      : 28 April 2002 — Lahan, Nepal 🇳🇵
+Degree   : B.E. Electronics, Communication & Info Eng.
+College  : Sagarmatha Engineering College (2020–2025)
+Job      : Technical Support Associate @ ZTE → Ncell 📡
+Location : Kathmandu, Nepal
+Languages: Nepali · English · Hindi · German
+Open To  : Full-time · Freelance · Collaborations ✅
 ```
 
-- 🎓 **B.E. Electronics, Communication & Info Eng.** — Sagarmatha Engineering College
-- 💼 Optimizing **2G/3G/4G networks** at Ncell (Q1/Q2 Capacity Upgrade Project)
-- 🤖 Built a **YOLO-based classroom monitor** & **Arduino 3D scanner**
+- 🤖 Built **YOLO real-time classroom monitor** & **Arduino 3D scanner**
+- 📡 Optimizing **2G/3G/4G** networks — KPI & capacity upgrades at Ncell
 - 📱 Certified in **Flutter**, **Machine Learning** & **Robotics**
-- 🌐 Speaks: Nepali · English · Hindi · German
+- 🌐 [dahalboy.github.io/My_Website](https://dahalboy.github.io/My_Website/)
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ tech stack
+### 🛠️ tech stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,python,mongodb,flutter,arduino,opencv,git,github,vscode,linux&theme=dark&perline=7" />
+</div>
+
+---
+
+### 🚀 projects
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+
+**🎓 Real-Time Classroom Monitor** `2024–2025`
+
+YOLO-powered AI detects student behavior — attention, sleeping, distracted — on live video with identity recognition
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=opencv&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dahalboy)
+
+</td>
+<td align="center" width="50%">
+
+**🔩 3D Object Scanning Machine** `2024`
+
+Arduino scanner using stepper motor + ultrasonic sensor — rotates object 360° and reconstructs 3D surface
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-FF6C37?style=flat-square)
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dahalboy)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**📱 Flutter Mobile App** `2022–2023`
+
+Cross-platform app with clean UI and REST API integration — built during 30-day Flutter certification
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![REST](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square)
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dahalboy)
+
+</td>
+<td align="center" width="50%">
+
+**🌐 Personal Portfolio** `2024`
+
+Responsive portfolio — HTML, CSS, Node.js backend + MongoDB, hosted on GitHub Pages
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+[![Live](https://img.shields.io/badge/Live_Demo-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dahalboy.github.io/My_Website/)
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+### 💼 experience & education
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=opencv&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/ML%2FAI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+| | Role / Degree | Place | Year |
+|:---:|---|---|:---:|
+| 💼 | Technical Support Associate — ZTE → Ncell | Kathmandu, Nepal | 2025 – now |
+| 🎓 | B.E. Electronics, Communication & Info Eng. | Sagarmatha Engineering College | 2020 – 2025 |
+| 🧠 | Machine Learning Certification | Training Program | 2024 |
+| 📱 | Flutter: Mobile App Dev Certification | Training Program | 2022 – 2023 |
+| 🤖 | Robotics & Microcontroller (30 hrs) | Sagarmatha Engineering College | 2022 |
 
 </div>
 
 ---
 
-## 🚀 featured projects
+### 📊 github stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dahalboy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&border_radius=12" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dahalboy&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=888&border_radius=12" width="47%" />
+</div>
 
-| 🏷️ Project | 📝 Description | 🔧 Stack |
-|---|---|---|
-| 🎓 **Real-Time Classroom Monitor** | YOLO-powered student behavior detection — attention, sleeping, distraction on live video | `Python` `YOLO` `OpenCV` |
-| 🔩 **3D Object Scanning Machine** | Arduino scanner using stepper motor + ultrasonic sensor to map 3D object surfaces | `Arduino` `C++` `IoT` |
-| 📱 **Flutter Mobile App** | Cross-platform app with clean UI and REST API integration | `Flutter` `Dart` `REST` |
-| 🌐 **Personal Portfolio** | Responsive portfolio site with Node.js backend and MongoDB | `HTML` `CSS` `Node.js` `MongoDB` |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahalboy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&border_radius=12" width="38%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dahalboy&theme=algolia&no-frame=true&column=4&margin-w=8&margin-h=8" width="54%" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dahalboy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=58A6FF" width="95%" />
 </div>
 
 ---
 
-## 📊 github stats
+### 🐍 snake eating my contributions
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dahalboy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=ffffff" width="47%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dahalboy&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="47%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahalboy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=ffffff" width="38%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=dahalboy&theme=algolia&no-frame=true&column=5&margin-w=8"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dahalboy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff"/>
-
+  <img src="https://raw.githubusercontent.com/dahalboy/dahalboy/output/github-contribution-grid-snake-dark.svg" />
 </div>
+
+> **To activate snake** → in your `dahalboy` repo, create `.github/workflows/snake.yml` and paste:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: dahalboy
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1a1a2e,100:0D1117&height=120&section=footer&animation=fadeIn"/>
-
 <div align="center">
 
-⭐ **Like what you see? Star my repos — it means a lot!**
+```javascript
+while (true) {
+  eat() && sleep() && code() && repeat();
+}
+```
+
+⭐ **Star my repos if you like what you see — it keeps me going!**
+
 *Crafted with ❤️ from Kathmandu, Nepal 🇳🇵*
 
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1a1a2e,100:0D1117&height=130&section=footer&animation=fadeIn"/>
 </div>
