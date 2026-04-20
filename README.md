@@ -139,11 +139,4 @@ Responsive portfolio — HTML, CSS, Node.js backend + MongoDB, hosted on GitHub 
 ---
 
 
-<div align="center">
-
-```javascript
-while (true) {
-  eat() && sleep() && code() && repeat();
-}
-```
 
