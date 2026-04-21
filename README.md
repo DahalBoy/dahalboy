@@ -1,20 +1,44 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0a3d62,70:1a1a2e,100:58A6FF&height=220&section=header&text=Ankit%20Prasad%20Dahal&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=⚡%20Wireless%20Engineer%20%7C%20AI%20%7C%20IoT%20%7C%20&descAlignY=62&descSize=17&animation=fadeIn&stroke=58A6FF&strokeWidth=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,40:0a1628,70:0a3d62,100:58A6FF&height=280&section=header&text=Ankit%20Prasad%20Dahal&fontSize=58&fontColor=58A6FF&fontAlignY=45&desc=⚡%20Wireless%20Engineer%20%7C%20AI%20%7C%20IoT%20%7C%20Full-Stack%20Dev&descAlignY=65&descSize=18&animation=fadeIn&stroke=ffffff&strokeWidth=1.5&reversal=false"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&height=50&lines=🚀+Hey!+I'm+Ankit+from+Nepal+🇳🇵;🤖+YOLO+%7C+Deep+Learning+%7C+Computer+Vision;⚡+Node.js+%7C+MongoDB+%7C+Express.js;🔩+Arduino+%7C+IoT+%7C+Embedded+Systems;📡+Network+Optimization+%7C+KPI+Analysis;💡+Always+Learning+%7C+Always+Building" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=26&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=55&lines=🚀+I+build+things+that+actually+work;🤖+YOLO+%7C+Deep+Learning+%7C+Vision+AI;⚡+Node.js+%7C+MongoDB+%7C+Express.js;🔩+Arduino+%7C+IoT+%7C+Embedded+Systems;📡+Network+Optimization+%7C+KPI+Analysis;🇳🇵+Proudly+Built+in+Nepal" />
+  </a>
 </div>
 
 <br/>
 
+<p align="center">
+  <a href="https://dahalboy.github.io/My_Website/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-58A6FF?style=for-the-badge&labelColor=0D1117" />
+  </a>
+  <a href="https://www.linkedin.com/in/ankit-dahal-18aa271a9">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
+  </a>
+  <a href="mailto:ankitdahal864@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
+  </a>
+  <a href="https://wa.me/9779843345619">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=dahalboy&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS&labelColor=0D1117" />
+</p>
+
+<br/>
+
 <div align="center">
-  <a href="https://dahalboy.github.io/My_Website/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit-58A6FF?style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/ankit-dahal-18aa271a9"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ankitdahal864@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://wa.me/9779843345619"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=dahalboy&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dahalboy&theme=tokyonight" width="94%" />
 </div>
+
+---
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="255" />
+
+### 🧑‍💻 `whoami`
+
+```yaml
 
 ---
 
